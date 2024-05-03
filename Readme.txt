@@ -1,6 +1,6 @@
-👋 Hello, I am Rajeev Vhanhuve
-💼 I work at Tata Technologies as a Design Engineer in Engineering, Research & Development.
-🌱 I'm also pursuing the Data Science program at Simplilearn.
-📫 www.linkedin.com/in/rajeevvhanhuve
-🌐 https://rajeevvhanhuve.github.io/
-➕ https://public.tableau.com/app/profile/rajeev.vhanhuve
+👋 Hello, I am Anuradha Parakale
+💼 I work at Tao as Gen AI Engineer in Cyber Security, Research & Development.
+🌱 I'm also pursuing theGenerative AI with OpenAI, LangChain, and LlamaIndex V2 program at iNeuron.
+📫 www.linkedin.com/in/anuradhaparakale
+🌐 https://anuradhaparakale.github.io/
+➕ https://public.tableau.com/app/profile/anuradha.parakale
